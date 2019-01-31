@@ -11,3 +11,9 @@
 ```
 foolgit list
 ```
+
+## Paths
+
+```
+<location>/<group>/<repo_name>/.git/
+```
