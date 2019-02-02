@@ -17,3 +17,7 @@ foolgit list
 ```
 <location>/<group>/<repo_name>/.git/
 ```
+
+## Additional Reading
+
+- [Pygit](https://github.com/benhoyt/pygit/blob/master/pygit.py): Just enough python to emulate a repo.
